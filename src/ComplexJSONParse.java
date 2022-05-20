@@ -33,6 +33,9 @@ public class ComplexJSONParse {
 			  {
 				  int copies=js.get("courses["+i+"].copies");
 				  System.out.println(copies);
+				  System.out.println(copies);
+				  System.out.println(copies);
+				  System.out.println(copies);
 				  break;
 			  }
 			
